@@ -1,6 +1,6 @@
 # Pick-and-Place-in-Roboguide
 Pick and Place in Roboguide
-![](support file/pic1.PNG)
+![](support%20file/pic1.PNG)
 
 
 
@@ -12,6 +12,6 @@ How To Run This Simulation In Roboguide ?
 
  2.Put All the files in a Folder
  
- ![](support file/pic2.png)
+ ![](support%20file/pic2.png)
 
- 3.Open the above marked file in Roboguide and you will get all thing presetup with code
+ 3.Open the above marked file in Roboguide
